@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deinstitutioneo01flacgoog_0457.png"; bbox 0 0 3200 5117; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 788 1682 2103 1812">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 788 1682 2103 1812">
+     <span class='ocr_line' id='line_1_1' title="bbox 788 1682 2103 1812; baseline 0.003 -25"><span class='ocrx_word' id='word_1_1' title='bbox 788 1686 984 1787; x_wconf 86' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1056 1682 2103 1812; x_wconf 77' lang='lat' dir='ltr'><strong>QUINTILIANO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 867 1917 2012 2176">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 867 1917 2012 2176">
+     <span class='ocr_line' id='line_1_2' title="bbox 867 1917 2012 2176; baseline -0.001 -35"><span class='ocrx_word' id='word_1_3' title='bbox 867 1917 2012 2176; x_wconf 81' lang='lat' dir='ltr'><strong>EXCERPTA‚</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 466 2346 2418 2449">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 466 2346 2418 2449">
+     <span class='ocr_line' id='line_1_3' title="bbox 466 2346 2418 2449; baseline -0.003 -24"><span class='ocrx_word' id='word_1_4' title='bbox 466 2349 603 2425; x_wconf 88' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 655 2348 803 2424; x_wconf 94' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 857 2346 1261 2424; x_wconf 89' lang='lat' dir='ltr'><strong>CODICE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1317 2346 1915 2443; x_wconf 84' lang='lat' dir='ltr'>VOSSIANO‚</span> <span class='ocrx_word' id='word_1_8' title='bbox 1969 2347 2164 2449; x_wconf 90' lang='lat' dir='ltr'><strong>QUI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2215 2347 2418 2421; x_wconf 89' lang='lat' dir='ltr'><strong>EST</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 582 2531 2310 2708">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 582 2531 2310 2708">
+     <span class='ocr_line' id='line_1_4' title="bbox 582 2531 2310 2708; baseline -0.001 -19"><span class='ocrx_word' id='word_1_10' title='bbox 582 2603 704 2692; x_wconf 90' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 761 2531 1622 2689; x_wconf 86' lang='lat' dir='ltr'><strong>BIBLIOTHECA</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1678 2602 2310 2708; x_wconf 85' lang='lat' dir='ltr'><strong>LEIDENSI‚</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1287 2846 1791 2911">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1287 2846 1791 2911">
+     <span class='ocr_line' id='line_1_5' title="bbox 1287 2846 1791 2911; baseline -0.002 -1"><span class='ocrx_word' id='word_1_13' title='bbox 1287 2846 1592 2911; x_wconf 88' lang='lat' dir='ltr'><strong>EDITA.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1780 2871 1791 2878; x_wconf 75' lang='grc'><strong><em>·</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
